@@ -14,7 +14,7 @@ module.exports = function(config) {
     ],
     reporters: ['progress', 'coverage'],
     preprocessors: {
-      'fme-calendar.coffee': ['coverage'],
+      'src/fme-calendar.coffee': ['coverage'],
       'spec/spec_helper.coffee': ['coffee'],
       'spec/fme-calendar-spec.coffee': ['coffee']
     },
