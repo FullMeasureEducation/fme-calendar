@@ -9,7 +9,7 @@ module.exports = function(config) {
     files: [
       'bower_components/angular/angular.js',
       'bower_components/angular-mocks/angular-mocks.js',
-      'fme-calendar.coffee',
+      'src/fme-calendar.coffee',
       'spec/*.coffee'
     ],
     reporters: ['progress', 'coverage'],
