@@ -1,1 +1,1 @@
-angular.module('fmeCalendarExample', ['fme-calendar']);
+angular.module('fmeCalendarExample', ['fme-calendar', 'ngMaterial']);
