@@ -1,7 +1,7 @@
 {
   "name": "fme-sortable",
   "version": "1.0.0",
-  "description": "A simple website tour that works in ionic mobile projects and browser apps.",
+  "description": "A simple website calendar that works in ionic mobile projects and browser apps.",
   "main": "fme-sortable.js",
   "directories": {
     "example": "example"
@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FullMeasureEducation/fme-tour.git"
+    "url": "https://github.com/FullMeasureEducation/fme-calendar.git"
   },
   "keywords": [
     "html5",
@@ -57,7 +57,7 @@
   "author": "Samuel Birk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FullMeasureEducation/fme-tour/issues"
+    "url": "https://github.com/FullMeasureEducation/fme-calendar/issues"
   },
-  "homepage": "https://github.com/FullMeasureEducation/fme-tour"
+  "homepage": "https://github.com/FullMeasureEducation/fme-calendar"
 }

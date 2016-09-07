@@ -15,10 +15,8 @@
     "angularjs"
   ],
   "dependencies": {
-    "jquery": "2.1",
-    "angular-material": "*",
-    "angular": "1.4.3",
-    "angular-mocks": "1.4.3",
+    "angular": "^1.5.8",
+    "angular-mocks": "^1.5.8"
   },
   "license": "MIT"
 }
