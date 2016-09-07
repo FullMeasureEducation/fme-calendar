@@ -1,0 +1,24 @@
+{
+  "name": "fme-calendar",
+  "main": "fme-calendar.js",
+  "version": "1.0.5",
+  "homepage": "https://github.com/FullMeasureEducation/fme-calendar.git",
+  "authors": [
+    "fme-samuelbirk <sam@fullmeasureed.com>"
+  ],
+  "description": "A simple angular directive for displaying calendars in browsers and mobile ionic projects.",
+  "keywords": [
+    "calendar",
+    "monthly",
+    "material",
+    "html5",
+    "angularjs"
+  ],
+  "dependencies": {
+    "jquery": "2.1",
+    "angular-material": "*",
+    "angular": "1.4.3",
+    "angular-mocks": "1.4.3",
+  },
+  "license": "MIT"
+}
